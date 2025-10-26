@@ -1,0 +1,6 @@
+  =>  Template Name    : Shopsmart-frontent
+
+  =>  Template Link    : http://127.0.0.1:5500/Shopsmart-frontend/index.html#
+
+  =>  Template Author  : Periyasamy
+
